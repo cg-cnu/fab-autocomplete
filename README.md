@@ -7,6 +7,7 @@
 
 * Auto completion for
     + Functions
+    + Flags
 
 * Supports the following shells
     + bash
@@ -15,12 +16,12 @@
 
 ### Bash on Centos
 * Download or clone the repo.
-* Copy the file **fab-bash-complete** to  **/etc/bash_completion.d/**
+* Copy the file **fab-bash-completion** to  **/etc/bash_completion.d/**
 
 ## Usage
 
 * Type **fab** and **\<tab\>** to get the functions .
-* Type **fab** and **\<tab\>** for options.
+* Type **fab** and **--\<tab\>** for the flags.
 
 ## Known Issues
 
