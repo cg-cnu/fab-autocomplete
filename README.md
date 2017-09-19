@@ -1,9 +1,21 @@
-![fabric logo](http://www.fabfile.org/_static/logo.png)
-# Fab Auto Complete
+<p align="center">
+  <img src="http://www.fabfile.org/_static/logo.png" height="100px"/>
+  <h1 align="center">Fab Auto Complete</h1>
+  <br>
+</p>
 
-## A handy auto completion script for [fabric](http://www.fabfile.org/)
+## Description:
 
-## Features
+A handy auto completion script for [fabric](http://www.fabfile.org/)
+
+## Demo:
+
+### Usage
+
+* Type **fab** and **\<tab\>** to get the functions .
+* Type **fab** and **--\<tab\>** for the flags.
+
+## Features:
 
 * Auto completion for
     + Functions
@@ -12,17 +24,21 @@
 * Supports the following shells
     + bash
 
-## Install
+## Installation:
 
-### Bash on Centos
+Bash on Centos
+
 * Download or clone the repo.
 * Copy the file **fab-bash-completion** to  **/etc/bash_completion.d/**
 
-## Usage
+### Issue/Feedback:
 
-* Type **fab** and **\<tab\>** to get the functions .
-* Type **fab** and **--\<tab\>** for the flags.
+log them in the [github issues](https://github.com/cg-cnu/blender-wireframe-on-shaded/issues) or hit me on [twitter](https://twitter.com/CgCnu).
 
-## Known Issues
+### Known Issues:
 
 * currently the tool assumes that the **fabfile** exists in the folder where fab is being run.
+
+### Like it?
+
+Please :star: this repo!
