@@ -4,18 +4,18 @@
   <br>
 </p>
 
-## Description:
+### Description:
 
 A handy auto completion script for [fabric](http://www.fabfile.org/)
 
-## Demo:
+### Demo:
 
 ### Usage
 
 * Type **fab** and **\<tab\>** to get the functions .
 * Type **fab** and **--\<tab\>** for the flags.
 
-## Features:
+### Features:
 
 * Auto completion for
     + Functions
@@ -24,7 +24,7 @@ A handy auto completion script for [fabric](http://www.fabfile.org/)
 * Supports the following shells
     + bash
 
-## Installation:
+### Installation:
 
 Bash on Centos
 
@@ -33,7 +33,7 @@ Bash on Centos
 
 ### Issue/Feedback:
 
-log them in the [github issues](https://github.com/cg-cnu/blender-wireframe-on-shaded/issues) or hit me on [twitter](https://twitter.com/CgCnu).
+Log them in the [github issues](https://github.com/cg-cnu/blender-wireframe-on-shaded/issues) or hit me on [twitter](https://twitter.com/CgCnu).
 
 ### Known Issues:
 
